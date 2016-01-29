@@ -1,0 +1,5 @@
+dependencies:
+- name: trianglify
+  src: htmlwidgets/lib/trianglify
+  script: dist/trianglify.min.js
+  version: 0.1.0
